@@ -6,7 +6,7 @@ mentions:
 ---
 
 ::: warning
-The Script API is currently in active development, and breaking changes are frequent. This page assumes the format of Minecraft 1.19.80
+The Script API is currently in active development, and breaking changes are frequent. This page assumes the format of Minecraft 1.20.8
 :::
 
 ## Overview
@@ -17,7 +17,7 @@ Script API has modules for developers to interact with Minecraft. Additionally, 
 
     | Module UUID                            | Versions                                         | Previous names                  | Release Version    |
     | -------------------------------------- | ------------------------------------------------ | ------------------------------- | ------------------ |
-    | `b26a4d4c-afdf-4690-88f8-931846312678` | `1.4.0-beta , 1.3.0`, `1.2.0`, `1.1.0`, `1.0.0`, `0.1.0` | `Minecraft`, `mojang-minecraft` | `Beta 1.16.210.60` |
+    | `b26a4d4c-afdf-4690-88f8-931846312678`|`1.11.0-beta`, `1.10.0`, `1.9.0`, `1.8.0`,`1.7.0`, `1.6.0`, `1.5.0`, `1.4.0 , 1.3.0`, `1.2.0`, `1.1.0`, `1.0.0`, `0.1.0` | `Minecraft`, `mojang-minecraft` | `Beta 1.16.210.60` |
 
 -   **`@minecraft/server-gametest`** - A module that provides a scaffolding toolset for you to build, test, and run your custom Add-ons and worlds.
 
