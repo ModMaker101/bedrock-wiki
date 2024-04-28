@@ -29,7 +29,7 @@ Script API has modules for developers to interact with Minecraft. Additionally, 
 
     | Module UUID                            | Versions              | Previous names        | Release version                       |
     | -------------------------------------- | --------------------- | --------------------- | ------------------------------------- |
-    | `2bd50a27-ab5f-4f40-a596-3641627c635e` | `1.1.0-beta`, `1.0.0` | `mojang-minecraft-ui` | `Beta 1.18.20.21+ (Release 1.18.30+)` |
+    | `2bd50a27-ab5f-4f40-a596-3641627c635e` | `1.2.0-beta`, `1.1.0`, `1.0.0` | `mojang-minecraft-ui` | `Beta 1.18.20.21+ (Release 1.18.30+)` |
 
 -   **`@minecraft/server-admin`** - BDS module for configuration of variables and secrets. This module is only available in [Bedrock Dedicated Servers](https://www.minecraft.net/en-us/download/server/bedrock) and cannot be used on realms and worlds.
 
